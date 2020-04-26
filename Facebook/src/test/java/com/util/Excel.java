@@ -21,7 +21,7 @@ public class Excel {
 		Sheet s= wb.getSheet("sheet1");
 	
 				
-		System.out.println("ss");
+		System.out.println("s");
 		
 		
 	}
